@@ -7,8 +7,6 @@ state_match = 1;
 state_compare = 2;
 state_clean = 3;
 state_shuffle = 4;
-state_game_over = 5;
-state_game_menu = 6;
 
 //set the initial state of the game
 state = state_deal;

@@ -169,12 +169,6 @@ switch(state)
 			}
 		}
 		break;
-	case state_game_over:
-		show_debug_message("game is over!");
-		break;
-	case state_game_menu:
-		show_debug_message("game is at main menu!");
-		break;
 	default:
 		//if something is wrong and we aren't in a recognizable state
 		//we'll end up here

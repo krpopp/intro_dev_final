@@ -7,7 +7,6 @@
     {"id":{"name":"spr_yellow","path":"sprites/spr_yellow/spr_yellow.yy",},"order":3,},
     {"id":{"name":"spr_blue","path":"sprites/spr_blue/spr_blue.yy",},"order":5,},
     {"id":{"name":"spr_red","path":"sprites/spr_red/spr_red.yy",},"order":7,},
-    {"id":{"name":"spr_clippy","path":"sprites/spr_clippy/spr_clippy.yy",},"order":8,},
     {"id":{"name":"scr_set_pos","path":"scripts/scr_set_pos/scr_set_pos.yy",},"order":0,},
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},"order":0,},
     {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},"order":1,},
