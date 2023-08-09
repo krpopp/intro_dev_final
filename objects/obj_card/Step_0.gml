@@ -21,9 +21,7 @@ if(in_player_hand && !face_up)
 	} 
 	else
 	{
-		//if the player cannot select the card or isn't hovering on it, 
-		//bump the card down to its original position
-		target_y = room_height * 0.8;
+
 	}
 }
 
